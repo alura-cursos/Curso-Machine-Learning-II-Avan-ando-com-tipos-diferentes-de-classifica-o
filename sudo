@@ -1,0 +1,11 @@
+Collecting pandas
+  Using cached https://files.pythonhosted.org/packages/8a/3c/0c3bab06331d125c419dc898d92d7153c2d5ae70a4f2a05244db356ffcd9/pandas-0.23.0-cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl
+Collecting numpy>=1.9.0 (from pandas)
+  Using cached https://files.pythonhosted.org/packages/b8/97/ecff917542e3a8a33bc8e88c031ed50c90577fd205eab362b29f3e57c09e/numpy-1.14.3-cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl
+Collecting python-dateutil>=2.5.0 (from pandas)
+  Using cached https://files.pythonhosted.org/packages/cf/f5/af2b09c957ace60dcfac112b669c45c8c97e32f94aa8b56da4c6d1682825/python_dateutil-2.7.3-py2.py3-none-any.whl
+Requirement not upgraded as not directly required: pytz>=2011k in /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python (from pandas) (2013.7)
+Collecting six>=1.5 (from python-dateutil>=2.5.0->pandas)
+  Using cached https://files.pythonhosted.org/packages/67/4b/141a581104b1f6397bfa78ac9d43d8ad29a7ca43ea90a2d863fe3056e86a/six-1.11.0-py2.py3-none-any.whl
+Installing collected packages: numpy, six, python-dateutil, pandas
+  Found existing installation: numpy 1.8.0rc1
